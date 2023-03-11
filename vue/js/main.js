@@ -1,4 +1,4 @@
-let eventBus = new Vue()
+//let eventBus = new Vue()
 
 Vue.component('product-tabs', {
     props: {
